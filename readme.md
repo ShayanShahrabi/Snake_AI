@@ -2,13 +2,16 @@
  This is a Python Reinforcement Learning project which teaches an AI model to play *Snake*. The game is designed using *Pygame*, the machine learning stuff are coded with *PyTorch*. Also, the tables are drawn using *matplotlib*.
  # Some Pictures 
 
+- A snapshot of the game played by the agent
 ![](Img/game.png)
 <br>
 
-![](Img/log.png)
+- Example of the generated plots showing the last score and the mean of the scores. It's noticible that the mean of the scores is ascending
+![](Img/plot.png)
 <br>
 
-![](Img/plot.png)
+- The logs written in terminal, showing the number of games being played, last score and the record
+![](Img/log.png)
 <br>
 
  # How to run the code
